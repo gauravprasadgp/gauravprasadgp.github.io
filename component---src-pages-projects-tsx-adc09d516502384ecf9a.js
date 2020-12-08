@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{gZkK:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),c=a("yE/o"),r=a("3mGJ"),l=a("aQu0"),o=a("D1pA"),i=a("soUV");t.default=Object(i.b)((function(){return n.createElement(c.a,null,n.createElement(r.a,{vertical:!0},n.createElement(l.a,{as:"h2"},n.createElement(o.a,{name:"info circle"}),n.createElement(l.a.Content,null,"My Projects"))),n.createElement(r.a,{vertical:!0}))}))}}]);
+//# sourceMappingURL=component---src-pages-projects-tsx-adc09d516502384ecf9a.js.map
